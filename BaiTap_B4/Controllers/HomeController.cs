@@ -28,4 +28,15 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
+    [HttpGet]
+    public IActionResult Create(){
+        return View();
+    }
+    [HttpPost]
+    public IActionResult Create(string FullName){
+        string message = "Xin chào "+FullName;
+        //Sử dụng ViewBag để gửi dữ liệu từ Controller
+        ViewBag.ThongBap = message;
+        return View();
+    }
 }
