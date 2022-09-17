@@ -1,0 +1,128 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BaiTap_B1
+build_property.RootNamespace = BaiTap_B1
+build_property.ProjectDir = d:\BT_dotNet2\BaiTap_B1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = d:\BT_dotNet2\BaiTap_B1
+build_property._RazorSourceGeneratorDebug = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BaiTap_B1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCYWlUYXBfQjFcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BaiTap_B1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCYWlUYXBfQjFcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BaiTap_B1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCYWlUYXBfQjFcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BaiTap_B1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCYWlUYXBfQjFcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BaiTap_B1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCYWlUYXBfQjFcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BaiTap_B1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCYWlUYXBfQjFcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BaiTap_B4/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCYWlUYXBfQjRcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BaiTap_B4/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCYWlUYXBfQjRcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BaiTap_B4/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCYWlUYXBfQjRcVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BaiTap_B4/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCYWlUYXBfQjRcVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BaiTap_B4/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCYWlUYXBfQjRcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BaiTap_B4/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCYWlUYXBfQjRcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BTGiaiPT/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCVEdpYWlQVFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BTGiaiPT/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCVEdpYWlQVFxWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BTGiaiPT/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCVEdpYWlQVFxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BTGiaiPT/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCVEdpYWlQVFxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BTGiaiPT/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCVEdpYWlQVFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BTGiaiPT/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCVEdpYWlQVFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BaiTap_B1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCYWlUYXBfQjFcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jgr5lhtbfs
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BaiTap_B4/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCYWlUYXBfQjRcVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-vuztv0tl56
+
+[d:/BT_dotNet2/BaiTap_B1/BT_dotNet2/BTGiaiPT/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QlRfZG90TmV0MlxCVEdpYWlQVFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-1xls6si8aw
+
+[d:/BT_dotNet2/BaiTap_B1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tk32rko4fn
